@@ -2,3 +2,4 @@
 
 *.typ
 *.pdf
+Cargo.lock
